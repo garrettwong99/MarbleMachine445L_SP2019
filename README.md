@@ -1,2 +1,5 @@
 # Final Project Lab 11
-ee445l-final-project-gcw496_jas23823_tf6693_rb42554 created by GitHub Classroom
+
+Programmed a Marble Maze game in C using TI's 32-bit ARM microcontroller. Converted accelerometer data from my phone to PWM to power the servos on the game. Connected the phone and game using ESP8366 wifi module.
+
+https://www.youtube.com/watch?v=D5CKl7UrgRY
